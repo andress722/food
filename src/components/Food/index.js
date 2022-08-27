@@ -17,7 +17,7 @@ export default function Banner(){
                         </div>
                         <span>or</span>
                         <div className="primary-white-button">
-                            <a href="#" className="scroll-link" data-id="book-table">Order Now</a>
+                            <a href="/" className="scroll-link" data-id="book-table">Order Now</a>
                         </div>
                     </div>
                 </div>

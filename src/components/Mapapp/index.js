@@ -1,9 +1,9 @@
 export default function MapApp(){
     return (
-        <section class="map">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
+        <section className="map">
+        <div className="container">
+            <div className="row">
+                <div className="col-md-12">
                     <div id="map">
         How to change your own map point
             1. Go to Google Maps

@@ -5,6 +5,8 @@ import Header from './components/Header'
 import NotFound from './pages/Err'
 import Product from './pages/Products'
 import Footer from './components/Footer'
+import OurMenu from './pages/Ourmenu'
+import Blog from './pages/Blog'
 const routes = () =>{
     return(
         <BrowserRouter> 
@@ -15,6 +17,8 @@ const routes = () =>{
                 <Route exact path='/contato' element={<Contact/>} />
                 <Route path='*' element={<NotFound/>} />
                 <Route path='/produto/:id' element={<Product/>} />
+                <Route path='/menu' element={<OurMenu/>} />
+                <Route path='/blog' element={<Blog/>} />
 
             </Routes>  
             <Footer/>

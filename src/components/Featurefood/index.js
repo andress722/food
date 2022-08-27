@@ -1,41 +1,41 @@
 export default function FeatureFood(){
     return (
-        <section class="featured-food">
-        <div class="container">
-            <div class="row">
-                <div class="heading">
+        <section className="featured-food">
+        <div className="container">
+            <div className="row">
+                <div className="heading">
                     <h2>Weekly Featured Food</h2>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="food-item">
+            <div className="row">
+                <div className="col-md-4">
+                    <div className="food-item">
                         <h2>Breakfast</h2>
                         <img src="img/breakfast_item.jpg" alt=""></img>
-                        <div class="price">$4.50</div>
-                        <div class="text-content">
+                        <div className="price">$4.50</div>
+                        <div className="text-content">
                             <h4>Kale Chips Art Party</h4>
                             <p>Dreamcatcher squid ennui cliche chicharros nes echo  small batch jean shorts hexagon street art knausgaard wolf...</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="food-item">
+                <div className="col-md-4">
+                    <div className="food-item">
                         <h2>Lunch</h2>
                         <img src="img/lunch_item.jpg" alt=""></img>
-                        <div class="price">$7.50</div>
-                        <div class="text-content">
+                        <div className="price">$7.50</div>
+                        <div className="text-content">
                             <h4>Taiyaki Gastro Tousled</h4>
                             <p>Dreamcatcher squid ennui cliche chicharros nes echo  small batch jean shorts hexagon street art knausgaard wolf...</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="food-item">
+                <div className="col-md-4">
+                    <div className="food-item">
                         <h2>Dinner</h2>
                         <img src="img/dinner_item.jpg" alt=""></img>
-                        <div class="price">$12.50</div>
-                        <div class="text-content">
+                        <div className="price">$12.50</div>
+                        <div className="text-content">
                             <h4>Batch Squid Jean Shorts</h4>
                             <p>Dreamcatcher squid ennui cliche chicharros nes echo  small batch jean shorts hexagon street art knausgaard wolf...</p>
                         </div>

@@ -1,22 +1,22 @@
 export default function Footer(){
     return (
         <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <p>Copyright &copy; 2020 Victory Template</p>
+        <div className="container">
+            <div className="row">
+                <div className="col-md-4">
+                    <p>Copyright &copy; 2022 Cidre Info</p>
                 </div>
-                <div class="col-md-4">
-                    <ul class="social-icons">
-                        <li><a rel="nofollow" href="https://fb.com/templatemo"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-rss"></i></a></li>
-                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                <div className="col-md-4">
+                    <ul className="social-icons">
+                        <li><a rel="nofollow" href="https://fb.com/templatemo"><i className="fa fa-facebook"></i></a></li>
+                        <li><a href="/"><i className="fa fa-twitter"></i></a></li>
+                        <li><a href="/"><i className="fa fa-linkedin"></i></a></li>
+                        <li><a href="/"><i className="fa fa-rss"></i></a></li>
+                        <li><a href="/"><i className="fa fa-dribbble"></i></a></li>
                     </ul>
                 </div>
-                <div class="col-md-4">
-                    <p>Design: TemplateMo</p>
+                <div className="col-md-4">
+                    <p>Design: Cidre</p>
                 </div>
             </div>
         </div>

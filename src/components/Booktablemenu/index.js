@@ -1,4 +1,4 @@
-export default function BookTable(){
+export default function BookTableMenu(){
     return (
         <section id="book-table">
         <div className="container">
@@ -8,12 +8,12 @@ export default function BookTable(){
                         <h2>Book Your Table Now</h2>
                     </div>
                 </div>
-                <div className="col-md-4 col-md-offset-2 col-sm-12">
+                <div className="col-md-4 col-md-offset-2">
                     <div className="left-image">
                         <img src="img/book_left_image.jpg" alt=""></img>
                     </div>
                 </div>
-                <div className="col-md-4 col-sm-12">
+                <div className="col-md-4">
                     <div className="right-info">
                         <h4>Reservation</h4>
                         <form id="form-submit" action="" method="get">

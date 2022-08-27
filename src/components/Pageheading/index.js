@@ -1,11 +1,11 @@
-export default function Heading(){
+export default function PageHeading(){
     return (
         <section className="page-heading">
         <div className="container">
             <div className="row">
                 <div className="col-md-12">
-                    <h1>Contact Us</h1>
-                    <p>Whatever drinking vinegar hella fingerstache shoreditch kickstarter kitsch. La croix hella iceland flexitarian letterpress.</p>
+                    <h1>Our Menus</h1>
+                    <p>Curabitur at dolor sed felis lacinia ultricies sit amet vel sem. Vestibulum diam leo, sodales tempor lectus sed, varius gravida mi.</p>
                 </div>
             </div>
         </div>

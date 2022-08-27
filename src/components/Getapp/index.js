@@ -1,13 +1,13 @@
 export default function GetApp (){
     return (
-        <section class="get-app">
-        <div class="container">
-            <div class="row">
-                <div class="heading">
+        <section className="get-app">
+        <div className="container">
+            <div className="row">
+                <div className="heading">
                     <h2>Get application for your phone</h2>
                 </div>
-                <div class="primary-white-button">
-                    <a href="#">Download now</a>
+                <div className="primary-white-button">
+                    <a href="/">Download now</a>
                 </div>
             </div>
         </div>
